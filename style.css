@@ -5,10 +5,12 @@ body{
     background-color: white;
 }
 
+
+
 #left-column{
     width: 60%;
     float: left;
-    background-color: aqua;
+    background-color: #f8c8dc;
 }
 
 #right-column img{
@@ -18,7 +20,7 @@ body{
 }
 
 img#stickman{
-    padding-top: 200px;
+    padding-top: 10px;
     width: 30%;
     height: 100%;
 }
@@ -30,6 +32,28 @@ img#logo{
     right: 10px;
 }
 
+img#hair{
+    width: 280px;
+    height: 181px;
 
+}
 
+img#eyes{
+    width: 85px;
+    height: 40px;
+}
 
+img#shoe{
+    width: 65px;
+    height: 58px;
+}
+
+img#mouth{
+    height: 56px;
+    width: 70px;
+}
+
+img#shirt{
+    width: 207px;
+    height: 167px;
+}
